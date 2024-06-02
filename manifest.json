@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "AutoBe Boost",
-  "version": "3.9",
+  "version": "4.0",
   "description": "Automatizador para o Behance",
   "host_permissions": ["https://www.behance.net/*"],
   "action": {
